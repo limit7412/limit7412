@@ -1,5 +1,6 @@
 ## qazx7412 @limit7412
   - [curriculum vitae/オープン職務経歴書](https://github.com/limit7412/curriculum_vitae)
+  - https://www.newgenerations.im
 
 ### language
 #### work
