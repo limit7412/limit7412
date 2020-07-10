@@ -1,4 +1,5 @@
 ## qazx7412 @limit7412
+  - [curriculum_vitae](https://github.com/limit7412/curriculum_vitae)
 
 ### language
 #### work
