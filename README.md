@@ -1,5 +1,5 @@
 ## qazx7412 @limit7412
-  - [curriculum_vitae](https://github.com/limit7412/curriculum_vitae)
+  - [curriculum vitae/オープン職務経歴書](https://github.com/limit7412/curriculum_vitae)
 
 ### language
 #### work
