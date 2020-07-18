@@ -1,4 +1,4 @@
-## qazx7412 回路  @limit7412
+## qazx7412 回路 kairox @limit7412
   - [curriculum vitae/オープン職務経歴書](https://github.com/limit7412/curriculum_vitae)
   - https://www.newgenerations.im
 
