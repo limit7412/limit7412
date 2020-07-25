@@ -6,7 +6,7 @@
 #### work
   - Go, node.js
 #### private
-  - Nim, Crystal, Dart, Ruby
+  - Nim, Crystal, Dart, Scala 
 
 ### account
   - [twitter](https://twitter.com/qazx7412)
