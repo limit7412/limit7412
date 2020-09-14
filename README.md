@@ -1,4 +1,4 @@
-## qazx7412 回路 kairox @limit7412
+## qazx7412 回路 kairox @limit7412 ![](https://komarev.com/ghpvc/?username=limit7412&style=flat-square)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limit7412&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
   - [curriculum vitae/オープン職務経歴書](https://github.com/limit7412/curriculum_vitae)
