@@ -20,4 +20,4 @@
   - discard: kairox(qazx7412)
   
 ### other
-  - [developer's blog](https://techdo.mediado.jp/archive/author/qazx7412)
+  - [developer's blog (mediado)](https://techdo.mediado.jp/archive/author/qazx7412)
