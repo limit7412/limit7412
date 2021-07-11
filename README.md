@@ -16,6 +16,7 @@
 ### account
   - [twitter](https://twitter.com/qazx7412)
   - [qiita](https://qiita.com/qazx7412)
+  - [zenn](https://zenn.dev/qazx7412)
   - [lapras](https://lapras.com/public/8BHGKGL)
   - discard: kairox(qazx7412)
   
