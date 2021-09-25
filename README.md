@@ -21,4 +21,5 @@
   - discard: kairox(qazx7412)
   
 ### other
-  - [developer's blog (mediado)](https://techdo.mediado.jp/search?q=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%9B%9E%E8%B7%AF)
+  - developer's blog
+    - [mediado](https://techdo.mediado.jp/search?q=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%9B%9E%E8%B7%AF)
