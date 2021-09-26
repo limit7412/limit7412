@@ -1,5 +1,14 @@
 ## qazx7412 回路 kairox @limit7412 
-![](https://komarev.com/ghpvc/?username=limit7412&style=flat-square)
+![](https://komarev.com/ghpvc/?username=limit7412&style=flat-square&color=lightgray)
+![Twitter Follow](https://img.shields.io/twitter/follow/qazx7412?style=flat-square&logo=twitter&color=blue)
+<a href="https://zenn.dev/qazx7412/articles">
+  <img src="https://zenn.badge.nikaera.com/s/qazx7412/articles?style=flat-square" alt="qazx7412 articles" />
+</a>
+<a href="https://zenn.dev/qazx7412">
+  <img src="https://zenn.badge.nikaera.com/s/qazx7412/likes?style=flat-square" alt="qazx7412 likes" />
+</a>
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/qazx7412/posts.svg)](http://qiita.com/qazx7412)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/qazx7412/contributions.svg)](http://qiita.com/qazx7412)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limit7412&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
