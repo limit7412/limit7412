@@ -35,5 +35,12 @@
   
 ### other
   - developer's blog
-    - [mediado](https://techdo.mediado.jp/search?q=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%9B%9E%E8%B7%AF)
+    - [mediado](https://techdo.mediado.jp/)
+      - [新電子書籍流通システムのアーキテクチャを解説](https://techdo.hatenablog.com/entry/2019/10/29/090000)
+      - [テックブログのpv数ランキングをアイドルが通知してくれるslack botをLambda + Goで作った話](https://techdo.hatenablog.com/entry/2019/12/06/090000)
+      - [重たい集計バッチをAthenaを利用して高速化した話](https://techdo.hatenablog.com/entry/2020/04/23/090000)
+      - [GitHub ActionsとServerless FrameworkでLambdaに自動デプロイを仕込む](https://techdo.hatenablog.com/entry/2020/08/31/101500)
+      - [AWSでサーバーレスに電子書籍webビューアーを配信しよう！](https://techdo.hatenablog.com/entry/2020/12/25/103000)
+      - [AWS CDKがGoでの記述に対応したらしいので試してみる【devpreview】](https://techdo.hatenablog.com/entry/2021/05/19/110000)
+      - [Goを使ってCloudWatch Logs Insightsでクエリを実行する](https://techdo.hatenablog.com/entry/2021/08/20/110000)
     - [ambr](https://ambr-inc.hatenablog.com/search?q=qazx7412)
