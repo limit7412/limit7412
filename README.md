@@ -43,4 +43,4 @@
       - [AWSでサーバーレスに電子書籍webビューアーを配信しよう！](https://techdo.hatenablog.com/entry/2020/12/25/103000)
       - [AWS CDKがGoでの記述に対応したらしいので試してみる【devpreview】](https://techdo.hatenablog.com/entry/2021/05/19/110000)
       - [Goを使ってCloudWatch Logs Insightsでクエリを実行する](https://techdo.hatenablog.com/entry/2021/08/20/110000)
-    - [ambr](https://ambr-inc.hatenablog.com/search?q=qazx7412)
+    - [ambr (zenn Publication)](https://zenn.dev/p/ambr_inc)
