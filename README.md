@@ -36,14 +36,22 @@
 ### other
   - developer's blog
     - mediado
-      - [新電子書籍流通システムのアーキテクチャを解説](https://techdo.hatenablog.com/entry/2019/10/29/090000)
-      - [テックブログのpv数ランキングをアイドルが通知してくれるslack botをLambda + Goで作った話](https://techdo.hatenablog.com/entry/2019/12/06/090000)
-      - [重たい集計バッチをAthenaを利用して高速化した話](https://techdo.hatenablog.com/entry/2020/04/23/090000)
-      - [GitHub ActionsとServerless FrameworkでLambdaに自動デプロイを仕込む](https://techdo.hatenablog.com/entry/2020/08/31/101500)
-      - [AWSでサーバーレスに電子書籍webビューアーを配信しよう！](https://techdo.hatenablog.com/entry/2020/12/25/103000)
-      - [AWS CDKがGoでの記述に対応したらしいので試してみる【devpreview】](https://techdo.hatenablog.com/entry/2021/05/19/110000)
-      - [Goを使ってCloudWatch Logs Insightsでクエリを実行する](https://techdo.hatenablog.com/entry/2021/08/20/110000)
+  
+      <details>
+        <summary>list</summary>
+        
+        - [新電子書籍流通システムのアーキテクチャを解説](https://techdo.hatenablog.com/entry/2019/10/29/090000)
+        - [テックブログのpv数ランキングをアイドルが通知してくれるslack botをLambda + Goで作った話](https://techdo.hatenablog.com/entry/2019/12/06/090000)
+        - [重たい集計バッチをAthenaを利用して高速化した話](https://techdo.hatenablog.com/entry/2020/04/23/090000)
+        - [GitHub ActionsとServerless FrameworkでLambdaに自動デプロイを仕込む](https://techdo.hatenablog.com/entry/2020/08/31/101500)
+        - [AWSでサーバーレスに電子書籍webビューアーを配信しよう！](https://techdo.hatenablog.com/entry/2020/12/25/103000)
+        - [AWS CDKがGoでの記述に対応したらしいので試してみる【devpreview】](https://techdo.hatenablog.com/entry/2021/05/19/110000)
+        - [Goを使ってCloudWatch Logs Insightsでクエリを実行する](https://techdo.hatenablog.com/entry/2021/08/20/110000)
+      
+      </details>
+      
     - ambr
       - [zenn Publication](https://zenn.dev/p/ambr_inc)
+        - [my page](https://zenn.dev/qazx7412)
 ### tools for VRChat
   - [add VCC page](https://limit7412.github.io/vcc-vpm/)
