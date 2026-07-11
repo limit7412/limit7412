@@ -19,10 +19,9 @@
 ### language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limit7412&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 #### work
-  - Go, node.js
+  - Go
 #### private
-  - Scala, Crystal
-  - old: Kotlin, Nim, Dart
+  - Crystal, Scala（Native）
 
 ### account
   - [twitter](https://twitter.com/qazx7412)
