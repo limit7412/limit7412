@@ -18,7 +18,7 @@
 #### work
   - Go
 #### private
-  - Crystal, Scala（Native）
+  - Crystal, Scala（Native）, C#（VRChat）
 
 ### account
   - [twitter](https://twitter.com/qazx7412)
