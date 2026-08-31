@@ -17,7 +17,7 @@
   - [curriculum vitae/オープン職務経歴書](https://github.com/limit7412/curriculum_vitae)
 
 ### language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limit7412&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=limit7412&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 #### work
   - Go
 #### private
