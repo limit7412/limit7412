@@ -20,7 +20,7 @@
 #### private
   - Crystal, Scala（Native）, C#（VRChat）
 
-#### repository
+### repository
 <details>
 　　<summary>list</summary>
       
