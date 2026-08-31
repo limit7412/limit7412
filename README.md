@@ -39,7 +39,7 @@
       - AWS Lambda + Go + Serverless Framework
     - [（更新/運用停止）vrc_status_sync](https://github.com/limit7412/vrc_status_sync)
       - Googleカレンダーに登録された予定を元にVRChatのステータスを更新するbot
-      - AWS Lambda + Scala + Serverless Framework
+      - AWS Lambda + Scala（JVM） + Serverless Framework
     - [（更新/運用停止）weather_notifications_discord](https://github.com/limit7412/weather_notifications_discord)
       - 日次で天気予報をスクレイピングで取得し報告するbot
       - AWS Lambda + Crystal + Serverless Framework
@@ -55,16 +55,16 @@
      
     - [VRCARKitBlendShapeGenerator](https://github.com/limit7412/VRCARKitBlendShapeGenerator)
       - VRC向け汎用フェイストラッキング用シェイプキー（ARKit/PerfectSync）自動生成NDMFプラグイン
-      - C# + Unity + [NDMF](https://github.com/bdunderscore/ndmf)
+      - C# + Unity（VRChat） + [NDMF](https://github.com/bdunderscore/ndmf)
     - [VRCFE-JsTBridge](https://github.com/limit7412/VRCFE-JsTBridge)
       - VRC向け表情管理ツール（FaceEmo）と汎用フェイストラッキングツール（Jerry's Templates）のブリッジNDMFプラグイン
-      - C# + Unity + [NDMF](https://github.com/bdunderscore/ndmf)
+      - C# + Unity（VRChat） + [NDMF](https://github.com/bdunderscore/ndmf)
 
      </details>
     <!--     - [（wip）VRCServiceStatusPanel](https://github.com/limit7412/VRCServiceStatusPanel)
       - VRChatワールド向け関連サービス障害情報表示パネルアセット + バックエンド
-      - app: C# + Unity（VRChat SDK）
-      - backend: AWS Lambda + Cloudflare R2 + Pulumi --> 
+      - app: [Udon#](https://creators.vrchat.com/worlds/udon/udonsharp/) + Unity（VRChat）
+      - backend: AWS Lambda + Cloudflare R2 + Crystal + Pulumi --> 
       
   - Desktop APP
     <details>
