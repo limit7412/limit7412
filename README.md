@@ -39,7 +39,7 @@
       - AWS Lambda + Go + Serverless Framework
     - [（更新/運用停止）vrc_status_sync](https://github.com/limit7412/vrc_status_sync)
       - Googleカレンダーに登録された予定を元にVRChatのステータスを更新するbot
-      - AWS Lambda + Scala（JVM） + Serverless Framework
+      - AWS Lambda + Scala（JVM）+ Serverless Framework
     - [（更新/運用停止）weather_notifications_discord](https://github.com/limit7412/weather_notifications_discord)
       - 日次で天気予報をスクレイピングで取得し報告するbot
       - AWS Lambda + Crystal + Serverless Framework
@@ -49,16 +49,16 @@
   
      </details>
      
-  - Tools for VRChat
+  - Uniry Tools for VRChat
     <details>
       <summary>list</summary>
      
     - [VRCARKitBlendShapeGenerator](https://github.com/limit7412/VRCARKitBlendShapeGenerator)
       - VRC向け汎用フェイストラッキング用シェイプキー（ARKit/PerfectSync）自動生成NDMFプラグイン
-      - C# + Unity（VRChat） + [NDMF](https://github.com/bdunderscore/ndmf)
+      - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
     - [VRCFE-JsTBridge](https://github.com/limit7412/VRCFE-JsTBridge)
       - VRC向け表情管理ツール（FaceEmo）と汎用フェイストラッキングツール（Jerry's Templates）のブリッジNDMFプラグイン
-      - C# + Unity（VRChat） + [NDMF](https://github.com/bdunderscore/ndmf)
+      - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
 
      </details>
     <!--     - [（wip）VRCServiceStatusPanel](https://github.com/limit7412/VRCServiceStatusPanel)
