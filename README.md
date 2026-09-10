@@ -83,7 +83,7 @@
     <details>
       <summary>list</summary>
      
-    - [web_ebook_server_sample](https://github.com/limit7412/web_ebook_server_sample)
+    - [（更新/運用停止）web_ebook_server_sample](https://github.com/limit7412/web_ebook_server_sample)
       - Web版電子書籍配信システムの[ブログ](https://techdo.hatenablog.com/entry/2020/12/25/103000)用サンプル実装
       - CloudFront + AWS Lambda（Lambda@Edge） + TypeScript + Serverless Framework
 
