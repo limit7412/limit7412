@@ -46,6 +46,9 @@
     - [（更新/運用停止）time_translation_slack](https://github.com/limit7412/time_translation_slack)
       - UnixTimeとJST、UTCの相互変換スラッシュコマンド
       - AWS Lambda + Nim + Serverless Framework
+    - [（更新/運用停止）github_notifications_slack_gas](https://github.com/limit7412/github_notifications_slack_gas)
+      - github_notifications_slack のGAS移植版
+      - Google Apps Script + TypeScript + clasp
   
      </details>
      
