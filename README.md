@@ -73,7 +73,7 @@
     <details>
       <summary>list</summary>
      
-    - [（wip）KxNotifyUtils](https://github.com/limit7412/KxNotifyUtils)
+    - [KxNotifyUtils](https://github.com/limit7412/KxNotifyUtils)
       - [XSOverlay](https://store.steampowered.com/app/1173510/XSOverlay/?l=japanese)向け通知ユーティリティ
       - Crystal
     - [VRCToolsDataSync](https://github.com/limit7412/VRCToolsDataSync)
