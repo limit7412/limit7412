@@ -62,7 +62,10 @@
     - [VRCFE-JsTBridge](https://github.com/limit7412/VRCFE-JsTBridge)
       - VRC向け表情管理ツール（FaceEmo）と汎用フェイストラッキングツール（Jerry's Templates）のブリッジNDMFプラグイン
       - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
-
+    - [VRCNativeFTManager](https://github.com/limit7412/VRCNativeFTManager)
+      - VRC向け公式フェイストラッキング用汎用NDMFプラグイン
+      - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
+    
      </details>
     <!--     - [（wip）VRCServiceStatusPanel](https://github.com/limit7412/VRCServiceStatusPanel)
       - VRChatワールド向け関連サービス障害情報表示パネルアセット + バックエンド
