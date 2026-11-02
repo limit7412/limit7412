@@ -63,7 +63,7 @@
       - VRC向け表情管理ツール（FaceEmo）と汎用フェイストラッキングツール（Jerry's Templates）のブリッジNDMFプラグイン
       - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
     - [VRCNativeFTManager](https://github.com/limit7412/VRCNativeFTManager)
-      - VRC向け公式フェイストラッキング用汎用NDMFプラグイン
+      - VRC向けネイティブフェイストラッキング用汎用NDMFプラグイン
       - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
     
      </details>
