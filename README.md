@@ -64,7 +64,7 @@
       - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
     - [VRCNativeFTManager](https://github.com/limit7412/VRCNativeFTManager)
       - VRC向けネイティブフェイストラッキング用汎用NDMFプラグイン
-      - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf)
+      - C# + Unity（VRChat）+ [NDMF](https://github.com/bdunderscore/ndmf) + [Modular Avatar](https://modular-avatar.nadena.dev/ja)
     
      </details>
     <!--     - [（wip）VRCServiceStatusPanel](https://github.com/limit7412/VRCServiceStatusPanel)
